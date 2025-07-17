@@ -97,24 +97,5 @@ Hyperparameter tuning with GridSearchCV improves model accuracy
 
 Visualizing results helps communicate model performance clearly
 
-🔗 How to Run This Project
-Clone this repository
-
-bash
-Copy code
-git clone https://github.com/yourusername/titanic-survival-prediction.git
-cd titanic-survival-prediction
-Install dependencies
-
-bash
-Copy code
-pip install pandas numpy matplotlib seaborn scikit-learn xgboost
-Make sure the dataset file (Titanic-Dataset.csv) is placed at the correct path (/content/ or modify the script)
-
-Run the script
-
-bash
-Copy code
-python titanic_prediction.py
 🤝 Acknowledgment
 Big thanks to CodSoft for the internship opportunity and for encouraging hands-on machine learning experience through real-world datasets.
